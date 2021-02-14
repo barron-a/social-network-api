@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Images](#images-and-walkthrough-video)
+- [Images and Walkthrough Videos](#images-and-walkthrough-video)
 - [Using the App](#usage)
 - [Technologies](#technologies)
 - [Author Info](#author-info)
@@ -18,7 +18,7 @@ Social Network API is a backend for a social media application. Routes are creat
 
 ---
 
-## Images and Walkthrough Video
+## Images and Walkthrough Videos
 
 ### Get All Users
 ![Get All Users](/assets/images/social-network-get-all-users.png)
