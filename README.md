@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Images and Walkthrough Videos](#images-and-walkthrough-video)
+- [Images and Walkthrough Videos](#images-and-walkthrough-videos)
 - [Using the App](#usage)
 - [Technologies](#technologies)
 - [Author Info](#author-info)
