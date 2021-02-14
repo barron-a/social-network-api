@@ -32,8 +32,9 @@ Social Network API is a backend for a social media application. Routes are creat
 ### Get One Thought
 ![Creating a New Post](/assets/images/techblog_dashboard.png)
 
-### Walkthrough Video
-![Walkthrough Video](/assets/images/techblog_editpost.png)
+### Walkthrough Videos
+![Walkthrough Video Part 1](https://drive.google.com/file/d/1UXjALm_KxmMwCr0TLtIWkePmnuUuvAyd/view)
+![Walkthrough Video Part 2](https://drive.google.com/file/d/19565Xijj7o2vsqIIUWg8mV-wRA6TcNw8/view)
 
 ---
 
@@ -63,7 +64,9 @@ This is the backend ONLY.  To test the routes, clone the code from https://githu
 ### Link to GitHub Repository
 https://github.com/barron-a/social-network-api
 
-### Link to Walkthrough Video
+### Link to Walkthrough Videos
+![Walkthrough Video Part 1](https://drive.google.com/file/d/1UXjALm_KxmMwCr0TLtIWkePmnuUuvAyd/view)
+![Walkthrough Video Part 2](https://drive.google.com/file/d/19565Xijj7o2vsqIIUWg8mV-wRA6TcNw8/view)
 
 
 [Back To The Top](#social-network-api)
