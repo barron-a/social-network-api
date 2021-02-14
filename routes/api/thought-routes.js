@@ -31,6 +31,6 @@ router
         .delete(removeThought)
         .put(addReaction)
 
-router.route('/:userId/:thoughtId/:reactionId').delete(removeReaction);
+router.route('/:thoughtId/reactions/:reactionId').delete(removeReaction);
 
 module.exports = router;
