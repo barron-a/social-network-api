@@ -34,6 +34,7 @@ Social Network API is a backend for a social media application. Routes are creat
 
 ### Walkthrough Videos
 Part 1: Users & Friends: https://drive.google.com/file/d/1UXjALm_KxmMwCr0TLtIWkePmnuUuvAyd/view
+
 Part 2: Thoughts & Reactions: https://drive.google.com/file/d/19565Xijj7o2vsqIIUWg8mV-wRA6TcNw8/view
 
 ---
