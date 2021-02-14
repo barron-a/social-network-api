@@ -21,20 +21,20 @@ Social Network API is a backend for a social media application. Routes are creat
 ## Images and Walkthrough Video
 
 ### Get All Users
-![Home Page](/assets/images/techblog_homepage.png)
+![Get All Users](/assets/images/social-network-get-all-users.png)
 
 ### Get One User
-![Logging In or Signing Up](/assets/images/techblog_login.png)
+![Get One User](/assets/images/social-network-get-one-user.png)
 
 ### Get All Thoughts
-![Creating a New Post](/assets/images/techblog_newpost.png)
+![Get All Thoughts](/assets/images/social-network-get-all-thoughts.png)
 
 ### Get One Thought
-![Creating a New Post](/assets/images/techblog_dashboard.png)
+![Get One Thought](/assets/images/social-network-get-one-thought.png)
 
 ### Walkthrough Videos
-![Walkthrough Video Part 1](https://drive.google.com/file/d/1UXjALm_KxmMwCr0TLtIWkePmnuUuvAyd/view)
-![Walkthrough Video Part 2](https://drive.google.com/file/d/19565Xijj7o2vsqIIUWg8mV-wRA6TcNw8/view)
+Part 1: Users & Friends: https://drive.google.com/file/d/1UXjALm_KxmMwCr0TLtIWkePmnuUuvAyd/view
+Part 2: Thoughts & Reactions: https://drive.google.com/file/d/19565Xijj7o2vsqIIUWg8mV-wRA6TcNw8/view
 
 ---
 
